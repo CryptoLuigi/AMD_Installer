@@ -11,15 +11,19 @@ Promocode for $10: CRYPTOMIKE
 When running this script, the script which AMD Driver you want to install.
 
 ```
-root@Miner-122:~# ./amd_install.sh
-No miner screens found
-Do you want to remove current AMD drivers?(y/n)n
-1) 16.40-348864                 7) 17.50-511655
-2) 16.60-379184                 8) 18.10-572953
-3) 17.10-429170                 9) 18.20-606296-18.04
-4) 17.10-450821                10) 18.40-697810-ubuntu-18.04
-5) 17.30-458935                11) 18.50-725072-ubuntu-18.04
-6) 17.40-492261                12) Quit
+root@Miner:~# ./amd_install.sh
+Stopping screen session 21798
+
+Please note Drivers with the 18.04 suffix require an OS upgrade
+1) 16.40-348864-ubuntu-16.04   10) 18.10-572953-ubuntu-16.04
+2) 16.60-379184-ubuntu-16.04   11) 18.20-606296-ubuntu-18.04
+3) 17.10-429170-ubuntu-16.04   12) 18.30-641594-ubuntu-18.04
+4) 17.10-450821-ubuntu-16.04   13) 18.30-641594-ubuntu-16.04
+5) 17.30-458935-ubuntu-16.04   14) 18.40-673869-ubuntu-16.04
+6) 17.30-465504-ubuntu-16.04   15) 18.40-697810-ubuntu-18.04
+7) 17.40-492261-ubuntu-16.04   16) 18.50-725072-ubuntu-18.04
+8) 17.40-483984-ubuntu-16.04   17) Quit
+9) 17.50-511655-ubuntu-16.04
 Please enter your choice Drivers:
 ```
 
