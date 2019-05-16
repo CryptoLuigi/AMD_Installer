@@ -43,3 +43,8 @@ chmod +x ./amd_install.sh
 ./amd_install.sh
  ```
  For support go to: https://forum.hiveos.farm/t/auto-installation-of-amd-drivers-on-hiveos-ubuntu
+ 
+ 
+ https://www.youtube.com/watch?v=58pia_gBZ4s
+ 
+  [![Hiveos Tutorial: Easy AMD Driver Install/Update](https://img.youtube.com/vi/58pia_gBZ4s/0.jpg)](https://www.youtube.com/watch?58pia_gBZ4s "Hiveos Tutorial: Easy AMD Driver Install/Update")
