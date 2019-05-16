@@ -42,4 +42,4 @@ chmod +x ./amd_install.sh
 
 ./amd_install.sh
  ```
- For support go to: https://forum.hiveos.farm/t/auto-installation-of-amd-drivers-on-hiveos-ubuntu/11664
+ For support go to: https://forum.hiveos.farm/t/auto-installation-of-amd-drivers-on-hiveos-ubuntu
