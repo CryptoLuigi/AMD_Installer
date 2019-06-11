@@ -21,7 +21,7 @@ Please note Drivers with the 18.04 suffix require an OS upgrade
 4) 17.10-450821-ubuntu-16.04   13) 18.30-641594-ubuntu-16.04
 5) 17.30-458935-ubuntu-16.04   14) 18.40-673869-ubuntu-16.04
 6) 17.30-465504-ubuntu-16.04   15) 18.40-697810-ubuntu-18.04
-7) 17.40-492261-ubuntu-16.04   16) 18.50-725072-ubuntu-18.04
+7) 17.40-492261-ubuntu-16.04   16) 19.10-785425-ubuntu-18.04
 8) 17.40-483984-ubuntu-16.04   17) Quit
 9) 17.50-511655-ubuntu-16.04
 Please enter your choice Drivers:
