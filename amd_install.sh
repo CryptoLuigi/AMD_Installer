@@ -3,7 +3,7 @@
 #Script By CryptoLuigi (Michael Ruperto)
 #Date: 2019-04-21
 #Updated: 2019-04-22
-
+#by miabo
 systemctl stop hivex
 miner stop
 
