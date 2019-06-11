@@ -76,9 +76,9 @@ case $opt in
 	wget http://download.hiveos.farm/drivers/amdgpu-pro-18.40-697810-ubuntu-18.04.tar.xz
         version="18.40-697810-ubuntu-18.04";break
     ;;
-    "18.50-725072-ubuntu-18.04")
-	wget http://download.hiveos.farm/drivers/amdgpu-pro-18.50-725072-ubuntu-18.04.tar.xz
-        version="18.50-725072-ubuntu-18.04";break
+    "19.10-785425-ubuntu-18.04")
+	wget http://download.hiveos.farm/drivers/amdgpu-pro-19.10-785425-ubuntu-18.04.tar.xz
+        version="19.10-785425-ubuntu-18.04";break
     ;;
     "Quit")
 	exit
