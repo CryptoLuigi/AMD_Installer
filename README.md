@@ -1,7 +1,7 @@
 # Automatic installation of AMD Drivers on HiveOS/Ubuntu
 ---
 ## By: CryptoLuigi
-
+## Code contributors: Cryptonuffe miabo
 #### Click link below to learn more about HiveOS
 
 https://hiveos.farm?ref=84706
