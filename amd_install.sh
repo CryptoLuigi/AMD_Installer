@@ -98,6 +98,22 @@ case $opt in
 	wget http://download.hiveos.farm/drivers/amdgpu-pro-19.50-967956-ubuntu-18.04.tar.xz
         version="19.50-967956-ubuntu-18.04";break
 	;;
+  	"20.10-1048554-ubuntu-18.04")
+	wget http://download.hiveos.farm/drivers/amdgpu-pro-20.10-1048554-ubuntu-18.04.tar.xz
+        version="20.10-1048554-ubuntu-18.04";break
+	;;
+        "20.20-1089974-ubuntu-18.04")
+    wget http://download.hiveos.farm/drivers/amdgpu-pro-20.20-1089974-ubuntu-18.04.tar.xz
+        version="20.20-1089974-ubuntu-18.04";break
+    ;;
+        "20.30-1109583-ubuntu-18.04")
+    wget http://download.hiveos.farm/drivers/amdgpu-pro-20.30-1109583-ubuntu-18.04.tar.xz
+        version="20.30-1109583-ubuntu-18.04";break
+    ;;
+        "20.40-1147287-ubuntu-18.04")
+    wget http://download.hiveos.farm/drivers/amdgpu-pro-20.40-1147287-ubuntu-18.04.tar.xz
+        version="20.40-1147287-ubuntu-18.04";break
+    ;;
 	"Quit")
 	exit
         break
