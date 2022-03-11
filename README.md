@@ -4,10 +4,6 @@
 ## Code contributors: Cryptonuffe miabo
 #### Click link below to learn more about HiveOS
 
-https://hiveos.farm?ref=84706
-
-Promocode for $10: CRYPTOMIKE
-
 When running this script, the script which AMD Driver you want to install.
 
 ```
@@ -24,7 +20,8 @@ Please note Drivers with the 18.04 suffix require an OS upgrade
 7) 17.40-492261-ubuntu-16.04   17) 19.10-725072-ubuntu-18.04
 8) 17.40-483984-ubuntu-16.04   18) 19.20-812932-ubuntu-18.04
 9) 17.50-511655-ubuntu-16.04   19) 19.30-838629-ubuntu-18.04
-10)18.10-572953-ubuntu-16.04   20) Quit
+10)18.10-572953-ubuntu-16.04   20) 20.40-1147287-ubuntu-18.04
+21) Quit
 
 Please enter your choice Drivers:
 ```
